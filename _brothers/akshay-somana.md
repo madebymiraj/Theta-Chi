@@ -9,5 +9,5 @@ facebook: madebymiraj
 twitter: madebymiraj
 instagram: madebymiraj
 linkedin: madebymiraj
-weight: 2
+weight: 1
 ---
