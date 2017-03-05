@@ -15,7 +15,7 @@ title: Meet the Brothers
 
 <div class="container-fluid">
 	<div class="row">
-		{% for brother in site.data.brothers %}
+		{% for brother in site.brothers %}
 		<div class="col-md-3 col-sm-4">
 			<div class="card">
 				<div class="card-image" style="background-image: url('{{ brother.image }}');">
@@ -42,13 +42,17 @@ title: Meet the Brothers
 					<div class="card-cta">
 						<ul>
 							{% if brother.facebook %}
-							<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>{% endif %}
+							<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+							{% endif %}
 							{% if brother.twitter %}
-							<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>{% endif %}
+							<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+							{% endif %}
 							{% if brother.instagram %}
-							<li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>{% endif %}
+							<li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+							{% endif %}
 							{% if brother.linkedin %}
-							<li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>{% endif %}
+							<li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+							{% endif %}
 						</ul>
 					</div>
 				</div>
