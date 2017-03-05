@@ -1,0 +1,15 @@
+# Template
+# ----------------
+# image: Link to Facebook Event Cover Photo Image
+# name: Name of the Event
+# date: Monday, Dec 25 at 6PM - 11PM
+# location: North Pole, 241 Martin Luther King Jr. Blvd, Newark, NJ 07102
+# description: Short Event Description
+# facebookrsvp: Link to Facebook Event Page
+
+- image: https://scontent-dft4-2.xx.fbcdn.net/v/t1.0-9/16508334_10211376907568695_5550571895459379563_n.jpg?oh=43b985474705b0455559b20549468a25&oe=59305F31
+  name: Evan's Graduation Party
+  date: Saturday, May 13 at 6 PM - 11 PM
+  location: Knights of Columbus, 150 Chestnut St, Nutley, New Jersey 07110
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus accumsan leo orci, vitae rhoncus sapien mattis eu. Maecenas ut felis ex. Morbi ullamcorper turpis turpis.
+  facebookrsvp: https://www.facebook.com/events/1343054495752909/

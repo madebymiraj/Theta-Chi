@@ -1,0 +1,24 @@
+# Template
+# ----------------
+# image: Link to Profile Photo
+# name: Name of Brother
+# position: Position in the Chapter
+# year: Class Standing (Freshman, Sophomore, Junior, etc..)
+# major: Pursuing Degree (Information Technology, etc..)
+# minor: Pursuing Specialization (Human-Computer Interaction, etc..)
+# pledgesemester: Pledge Semester (Spring 2012)
+# facebook: Facebook Username
+# twitter: Twitter Username
+# instagram: Instagram Username
+# linkedin: LinkedIn Username
+
+- image: https://scontent-dft4-2.xx.fbcdn.net/v/t1.0-9/10710625_977461712271338_7321059438815443254_n.jpg?oh=723bd16de18f0e15de033668cb972257&oe=5928EC42
+  name: Akshay Somana
+  position: President
+  year: Senior
+  major: Business
+  pledgesemester: Spring 2014
+  facebook: madebymiraj
+  twitter: madebymiraj
+  instagram: madebymiraj
+  linkedin: madebymiraj

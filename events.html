@@ -1,0 +1,37 @@
+---
+layout: default
+title: Events
+---
+
+<div class="page-title">
+	<div class="container-fluid"></div>
+		<div class="row">
+			<div class="col-md-12">
+				<h1>{{ page.title }}</h1>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="container-fluid">
+	<div class="row">
+		{% for event in site.events %}
+		<div class="col-sm-6">
+			<div class="event-card">
+				<img class="img-responsive" src="{{ event.image_path }}" />
+			</div>
+			<div class="event-content">
+				<h3>{{ event.name }}</h3>
+				<hr>
+				<p><i class="fa fa-clock-o" aria-hidden="true"></i>	<span class="details">{{ event.date }}</p>
+				<p><i class="fa fa-map-marker" aria-hidden="true"></i>	<span class="details">{{ event.location }}</span></p>
+				<hr>
+				<p>{{ event.description }}</p>
+				<hr>
+				<div class="cta pull-right"><a href="{{ event.facebook_rsvp }}" class="btn btn-primary">RSVP on Facebook</a></div>
+				<div style="clear: both;"></div>
+			</div>
+		</div>
+		{% endfor %}
+	</div>
+</div>

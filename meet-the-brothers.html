@@ -1,0 +1,59 @@
+---
+layout: default
+title: Meet the Brothers
+---
+
+<div class="page-title">
+	<div class="container-fluid"></div>
+		<div class="row">
+			<div class="col-md-12">
+				<h1>{{ page.title }}</h1>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="container-fluid">
+	<div class="row">
+		{% for brother in site.data.brothers %}
+		<div class="col-md-3">
+			<div class="card">
+				<div class="card-image" style="background-image: url('{{ brother.image }}');">
+				</div>
+				<div class="card-content">
+					{% if brother.position %}
+					<p class="text-muted"><mark>{{ brother.position }}</mark></p>
+					{% endif %}
+					<h3>{{ brother.name }}</h3>
+					<ul class="profile">
+						{% if brother.year %}
+						<li><strong>Class Standing:</strong> <span class="pull-right">{{ brother.year }}</span></li>
+						{% endif %}
+						{% if brother.major %}
+						<li><strong>Major:</strong> <span class="pull-right">{{ brother.major }}</span></li>
+						{% endif %}
+						{% if brother.minor %}
+						<li><strong>Minor:</strong><span class="pull-right">{{ brother.minor }}</span></li>
+						{% endif %}
+						{% if brother.pledgesemester %}
+						<li><strong>Pledge Semester:</strong> <span class="pull-right">{{ brother.pledgesemester }}</span></li>
+						{% endif %}
+					</ul>
+					<div class="card-cta">
+						<ul>
+							{% if brother.facebook %}
+							<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>{% endif %}
+							{% if brother.twitter %}
+							<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>{% endif %}
+							{% if brother.instagram %}
+							<li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>{% endif %}
+							{% if brother.linkedin %}
+							<li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>{% endif %}
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		{% endfor %}
+	</div>
+</div>
