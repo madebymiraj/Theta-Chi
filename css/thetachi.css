@@ -152,9 +152,10 @@ a:focus
     .navbar-default .navbar-form
     {
         margin-top: 13px;
-
+        position: relative;
         border-color: #e7e7e7;
         background: #f8f8f8;
+        z-index: 10000;
     }
     .navbar-default .navbar-nav > .active > a,
     .navbar-default .navbar-nav > li > a:hover
