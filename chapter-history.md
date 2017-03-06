@@ -1,6 +1,6 @@
 ---
 layout: article
-title: International History
+title: Chapter History
 header-image: https://www.thetachi.org/clientuploads/directory/Interior_Banners/interior-banner-history.jpg
 ---
 
