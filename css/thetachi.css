@@ -20,7 +20,6 @@ Version: 1.0.0
     background: #f5b5ba;
 }
 
-html, body, #map_canvas { margin: 0; padding: 0; height: 100% }
 .mark, mark{
     background: #f2dede;
     color: #88111b;
