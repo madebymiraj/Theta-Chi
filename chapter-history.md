@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Chapter History
+title: House History
 header-image: 'https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/1380168_99140000091913_1657150205_n.jpg?oh=5656d75ebb6385ead5e5b4fa1ca6b8fe&oe=59394A8F'
 ---
 
@@ -9,7 +9,7 @@ header-image: 'https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/1380168_99140000091
 
 December 17, 1962 to January 1972, President John Zozzaro signed a lease for the house located at 17 Warren Street, in downtown Newark.
 
-January 1972 to 1984, through the extensive efforts of Alumnus Phillip Rinaldi and undergraduate Fred Cohen, the chapter purchased a house located at 103 Bleeker Street. In the spring of 1980, Ken Mosey completed his famous mural on the side of the chapter house. The mural would later make it on the cover of the Rattle of Theta Chi, the fraternity's national magazine.
+January 1972 to 1984, through the extensive efforts of Alumnus Phillip Rinaldi and undergraduate Fred Cohen, the chapter purchased a house located at 103 Bleeker Street. In the spring of 1980, Ken Mosey completed his famous mural on the side of the chapter house. The mural would later make it on the cover of the Rattle of Theta Chi, the fraternity’s national magazine.
 
 1984 to December 1989, following the demolition of the house located at 103 Bleeker Street, the chapter found temporary housing at 295 Martin Luther King Jr. Boulevard, the old Kappa Xi Kappa house.
 
