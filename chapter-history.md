@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Chapter History
-header-image: 'https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/1380168_99140000091913_1657150205_n.jpg?oh=5656d75ebb6385ead5e5b4fa1ca6b8fe&oe=59394A8F'
+header-image: 'https://scontent-lga3-1.xx.fbcdn.net/v/t31.0-8/893243_10202316316290975_36036391_o.jpg?oh=56c3c39f3b34981d37cbe3a983865e8c&oe=5933F923'
 ---
 
 
@@ -25,7 +25,7 @@ Motto: “Knowledge, strengthened and supported by Integrity, Scholarship, and B
 
 On December 17, 1962, President John Zozzaro signed the lease for a small, three story house at 17 Warren Street, in downtown Newark. It was on December 19, that the fraternity had its first real meeting in its own house. The fraternity had reached one objective, but still sought the biggest of all, nationalization.
 
-The next important item on the agenda was incorporation as a non-profit corporation and procurement of a corporate seal. The seal was received on January 9, 1963, by which time Kappa Delta Chi had already advanced into a leading position among the fraternities at NCE, Newark College of Engineering (NJIT's former name). January 24, 1963, brought the first pledge class to Kappa Delta Chi, and although it had been two months since other fraternities had started rushing, Kappa Delta Chi easily got the number of pledges it had pre-specified.
+The next important item on the agenda was incorporation as a non-profit corporation and procurement of a corporate seal. The seal was received on January 9, 1963, by which time Kappa Delta Chi had already advanced into a leading position among the fraternities at NCE, Newark College of Engineering (NJIT’s former name). January 24, 1963, brought the first pledge class to Kappa Delta Chi, and although it had been two months since other fraternities had started rushing, Kappa Delta Chi easily got the number of pledges it had pre-specified.
 
 ## Kappa Delta Chi Joins Theta Chi
 
