@@ -1,22 +1,34 @@
 ---
 layout: article
-title: House History
+title: Chapter History
 header-image: 'https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/1380168_99140000091913_1657150205_n.jpg?oh=5656d75ebb6385ead5e5b4fa1ca6b8fe&oe=59394A8F'
 ---
 
 
-## Former Chapter Housing
+## Kappa Delta Chi
 
-December 17, 1962 to January 1972, President John Zozzaro signed a lease for the house located at 17 Warren Street, in downtown Newark.
+The original group of thirteen students first met in the Student Commons on October 31, 1962. At that time, they decided to organize a fraternity and to seek to nationalize as soon as possible. The other business discussed at this meeting concerned the need for a larger brotherhood and for the brotherhood’s own house. It was decided that the name of at least one potential charter member be submitted by each brother as soon as possible for consideration by the entire brotherhood.
 
-January 1972 to 1984, through the extensive efforts of Alumnus Phillip Rinaldi and undergraduate Fred Cohen, the chapter purchased a house located at 103 Bleeker Street. In the spring of 1980, Ken Mosey completed his famous mural on the side of the chapter house. The mural would later make it on the cover of the Rattle of Theta Chi, the fraternity’s national magazine.
+Meanwhile, between that time and the next meeting, John Zozzaro the chapter’s founder and then its temporary President, with the help of Carl Belt- submitted the plan for the fraternity to the school on November 12, 1962. At this meeting the names of the newly proposed members were reviewed, and eighteen were elected to membership, bringing the number of charter members to a total of thirty-one.
 
-1984 to December 1989, following the demolition of the house located at 103 Bleeker Street, the chapter found temporary housing at 295 Martin Luther King Jr. Boulevard, the old Kappa Xi Kappa house.
+On December 14, 1962, the first set of officers was elected. They were: John Zozzaro, President; Joseph Laico, Vice-President; Carl Belt, Secretary; Anthony Faranetta, Treasurer; Leo Stillitano, Sergeant-at-Arms; and Phil Hapeman, House Manager. The name Kappa Delta Chi, signifying lasting brotherhood and scholarship was chosen to represent the aims of the fraternity.
 
-## The Firehouse
+Kappa- The ‘K’ in Kappa stands for Knowledge.
 
-December 1989 to Present: The former Engine 4 Ladder 2 Newark Firehouse located at 241-243 Martin Luther King Jr. Boulevard was purchased on December 1986 by the Fraternity for $72,001 thanks to the hard work and dedication of the Alumni President, Tom Usewicz during a public bidding organized by the city. Because the building had been unoccupied for many years, the brotherhood had to wait for repairs to get done before they could move in. One of the first things to get done was the removal of the fire poles in the house due to insurance reasons. Furthermore, once the house was ready, twelve brothers moved in during the winter break of 1989.
+Delta- The triangular structure stands for strength. The three legs of the triangle symbolize Brotherhood, Scholarship, and Integrity.
 
-As new residents of the firehouse, the brotherhood needed creative projects to take the house to the next level. During the spring semester of 1990, the Beta Omega pledge class created the Bar on the first floor as their pledge project. During the spring of 2004, Jason Wolf, Anthony Corcella, Galen Rice, Anthony Scotellaro, Mark SoHayda, Joe Knolmayer completed the deck in one night, thus allowing easier access to the green, the lawn area behind the deck.
+Chi- The ‘C’ stands for continuously.
 
-The Dedication of the Chapter House was given to the Newark Fire Company of Ladder 4, Engine 2. The Chapter Room was dedicated to Tom Usewicz because of his involvement in the acquiring of the house. The Chapter Library was dedicated to Anthony Laporte, who passed away in a terrible motorcycle accident on the summer of 1996. Father John Dennehy was an advisor to our chapter and helped out a lot which in return, the chapter made him an honorary brother. We held a farewell for Father John at the Founder’s Day Formal in spring of 2002. Our 50th Anniversary of founding at NJIT was held on the fall semester of 2013.
+Motto: “Knowledge, strengthened and supported by Integrity, Scholarship, and Brotherhood. Continuously!”
+
+## Birth of the Fraternity
+
+On December 17, 1962, President John Zozzaro signed the lease for a small, three story house at 17 Warren Street, in downtown Newark. It was on December 19, that the fraternity had its first real meeting in its own house. The fraternity had reached one objective, but still sought the biggest of all, nationalization.
+
+The next important item on the agenda was incorporation as a non-profit corporation and procurement of a corporate seal. The seal was received on January 9, 1963, by which time Kappa Delta Chi had already advanced into a leading position among the fraternities at NCE, Newark College of Engineering (NJIT's former name). January 24, 1963, brought the first pledge class to Kappa Delta Chi, and although it had been two months since other fraternities had started rushing, Kappa Delta Chi easily got the number of pledges it had pre-specified.
+
+## Kappa Delta Chi Joins Theta Chi
+
+One of the primary objectives of Kappa Delta Chi, since its founding, was to nationalize as soon as possible. A complete study of the many national groups was made and finally on March 3, 1963, thirty-one enthusiastic brothers of Kappa Delta Chi voted unanimously for Theta Chi Fraternity as their choice for nationalization. The fraternity had progressed so far by then that Theta Chi Fraternity did not require the usual period of one year as a colony, showing that it considered the group well enough organized to become a member immediately.
+
+On May 6, 1963, the brothers of Kappa Delta Chi learned that their petition for membership into Theta Chi had been reviewed and that the group was accepted into membership. At that time, Theta Chi had one-hundred and thirty chapters.
