@@ -7,7 +7,7 @@ collections:
     output: false
   events:
     title: Events
-    output: false
+    output: true
   posts:
     title: Posts
     output: true
