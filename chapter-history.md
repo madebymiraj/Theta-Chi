@@ -1,9 +1,8 @@
 ---
-layout: article
 title: Chapter History
-header-image: 'https://scontent-lga3-1.xx.fbcdn.net/v/t31.0-8/893243_10202316316290975_36036391_o.jpg?oh=56c3c39f3b34981d37cbe3a983865e8c&oe=5933F923'
+layout: article
+header-image: https://scontent-lga3-1.xx.fbcdn.net/v/t31.0-8/893243_10202316316290975_36036391_o.jpg?oh=56c3c39f3b34981d37cbe3a983865e8c&oe=5933F923
 ---
-
 
 ## Kappa Delta Chi
 

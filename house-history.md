@@ -1,9 +1,8 @@
 ---
-layout: article
 title: House History
-header-image: 'https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/1380168_99140000091913_1657150205_n.jpg?oh=5656d75ebb6385ead5e5b4fa1ca6b8fe&oe=59394A8F'
+layout: article
+header-image: https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/1380168_99140000091913_1657150205_n.jpg?oh=5656d75ebb6385ead5e5b4fa1ca6b8fe&oe=59394A8F
 ---
-
 
 ## Former Chapter Housing
 
